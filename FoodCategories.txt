@@ -1,0 +1,7 @@
+Food Categories
+
+Fruits
+
+Vegetables
+
+Grains
